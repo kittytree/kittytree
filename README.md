@@ -5,8 +5,7 @@
 - ⛄ I program on Linux
 - 🐼 I also dabble in vapoursynth
 
-- Stopping work on BST / Red/Black Trees, will delete Red/Black Tree as it's redundant to BST. I started those projects to learn the basics of rust, but with how the nature of rust safety works, those data structures that are easy to implement in other languages, are actually complicated in rust when dealing with memory, and lifetime safety restrictions. BST is feature complete except for deletion. With that said, I believe I am fine to move on as I have learnt quite a few basics of rust and am happy with the progress I made in a week.
-- I plan to start a new project today (2024-05-06) or tomorrow on image manipulation, and exiff stripping. I am in love with the idea of programming something that takes my interest in vapoursynth, and user privacy and learning more about it myself.
+- Currently working on https://github.com/kittytree/image-rak
 
 <!---
 kittytree/kittytree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
