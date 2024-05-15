@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kittytree
-- 👀 I’m interested in ... Rust, C#, following proper programming practices such as writing clean, readable, code that follows the respective languages standards.
+- 👀 I’m interested in ... Rust, C#
 - 🌱 I’m currently learning ... Rust
 - 💞️ I’m looking to collaborate on ... Rust FOSS projects
 - ⛄ I program on Linux
