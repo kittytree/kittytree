@@ -6,7 +6,7 @@
 - ⛄ I program on Linux using Rust Rover, GoLand, Vim.
 - 🐼 I also dabble in vapoursynth encoding
 
-- Currently working on [puccianles-exif-tool](https://github.com/kittytree/pucciniales-exif-tool)
+- Currently working on... meow
 
 <!---
 kittytree/kittytree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
