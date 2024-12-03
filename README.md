@@ -6,7 +6,7 @@
 - ⛄ I program on Linux using Rust Rover, GoLand, Vim.
 - 🐼 I also dabble in vapoursynth encoding
 
-- Currently working on... practicing for advent of code 2024
+- Currently working on... advent of code 2024
 
 <!---
 kittytree/kittytree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
